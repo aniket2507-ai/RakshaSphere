@@ -9,7 +9,15 @@ const dataLoader = require('./services/dataLoader');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors({ origin: '*' }));
+app.use(cors({
+  origin: [
+    'http://localhost:8061',
+    'http://localhost:19006',
+    /\.vercel\.app$/,
+    /\.railway\.app$/,
+  ],
+  credentials: true,
+}));
 app.use(express.json());
 
 // ── API Routes ────────────────────────────────────────────────────────────────
