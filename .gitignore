@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+frontend/.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+out/
+
+# Kiro
+.kiro/

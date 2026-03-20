@@ -1,0 +1,10 @@
+[
+  { "zoneId": "z-12-77", "type": "low_lighting", "status": "open", "timestamp": "2026-03-19T20:00:00Z" },
+  { "zoneId": "z-12-78", "type": "road_damage",  "status": "open", "timestamp": "2026-03-19T18:00:00Z" },
+  { "zoneId": "z-12-78", "type": "waterlogging",  "status": "open", "timestamp": "2026-03-20T06:00:00Z" },
+  { "zoneId": "z-13-78", "type": "garbage",       "status": "open", "timestamp": "2026-03-20T07:00:00Z" },
+  { "zoneId": "z-12-79", "type": "road_damage",   "status": "open", "timestamp": "2026-03-19T15:00:00Z" },
+  { "zoneId": "z-12-79", "type": "low_lighting",  "status": "open", "timestamp": "2026-03-19T21:00:00Z" },
+  { "zoneId": "z-11-77", "type": "garbage",       "status": "resolved", "timestamp": "2026-03-18T10:00:00Z" },
+  { "zoneId": "z-14-77", "type": "waterlogging",  "status": "open", "timestamp": "2026-03-20T08:00:00Z" }
+]

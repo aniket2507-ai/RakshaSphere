@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "RakshaSphere",
+    "slug": "raksha-sphere",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.raksha.sphere",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "RakshaSphere needs your location to show nearby risk zones and enable SOS."
+      }
+    },
+    "android": {
+      "package": "com.raksha.sphere",
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"]
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "RakshaSphere needs your location to show nearby risk zones and enable SOS."
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "location": "Delhi NCR",
+  "timestamp": "2026-03-20T10:00:00Z",
+  "condition": "partly_cloudy",
+  "temperature_c": 28,
+  "humidity_percent": 55,
+  "visibility_km": 8,
+  "wind_speed_kmh": 15,
+  "risk_score": 30,
+  "alerts": []
+}

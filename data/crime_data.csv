@@ -1,0 +1,16 @@
+zone_id,area_name,severity_score,incident_count,last_updated
+z-12-77,Connaught Place,45,12,2026-03-20
+z-12-78,Karol Bagh,62,18,2026-03-20
+z-12-76,Dwarka,28,7,2026-03-20
+z-13-77,Saket,35,9,2026-03-20
+z-13-78,Lajpat Nagar,55,15,2026-03-20
+z-13-76,Janakpuri,30,8,2026-03-20
+z-11-77,Rohini,48,13,2026-03-20
+z-11-78,Pitampura,40,11,2026-03-20
+z-12-79,Noida Sector 18,70,22,2026-03-20
+z-13-79,Greater Noida,38,10,2026-03-20
+z-14-77,Faridabad,52,14,2026-03-20
+z-14-78,Gurgaon,33,8,2026-03-20
+z-11-76,Najafgarh,25,6,2026-03-20
+z-10-77,Sonipat,42,11,2026-03-20
+z-12-75,Ghaziabad,65,20,2026-03-20
