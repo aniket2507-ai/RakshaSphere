@@ -13,6 +13,7 @@ web-build/
 .env.local
 .env.*.local
 frontend/.env
+backend/.env
 
 # Logs
 *.log
